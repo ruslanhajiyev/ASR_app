@@ -10,6 +10,43 @@ The app lets you record audio and get transcriptions in two ways:
 
 There's also user authentication, offline support (submissions queue up when you're offline), and a customizable theme system.
 
+## Screenshots
+
+### Login Screen
+The login screen features a clean interface with a prominent microphone icon, username and password fields, and options to login or navigate to registration.
+
+![Login Screen](screenshots/login.png)
+
+### Register Screen
+Create a new account with username, email, and password fields. Includes password confirmation and validation.
+
+![Register Screen](screenshots/register.png)
+
+### Home Screen
+The main screen lets you choose between auto or manual transcription modes. Features a large microphone icon and two clear action buttons.
+
+![Home Screen](screenshots/home.png)
+
+### Auto Transcription Screen
+Record audio and get automatic transcriptions. Edit the generated text, add labels, mark as verified, and submit your transcription.
+
+![Auto Transcription Screen](screenshots/auto_transcribe.png)
+
+### Model Management Screen
+Select from different Whisper models (Tiny, Base, Small, Medium, Large) with details about size, speed, and accuracy trade-offs.
+
+![Model Management Screen](screenshots/model_management.png)
+
+### Settings Screen
+Manage your account, view submissions, check pending uploads, and access device information. Includes options to clear local data and logout.
+
+![Settings Screen](screenshots/settings.png)
+
+### Submissions Screen
+View all your submitted transcriptions with status indicators, verification badges, model information, and full transcript details.
+
+![Submissions Screen](screenshots/submissions.png)
+
 ## Setup
 
 You'll need Flutter 3.5.1 or higher. After cloning, run:
