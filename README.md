@@ -15,37 +15,37 @@ There's also user authentication, offline support (submissions queue up when you
 ### Login Screen
 The login screen features a clean interface with a prominent microphone icon, username and password fields, and options to login or navigate to registration.
 
-![Login Screen](screenshots/login.png)
+<img src="screenshots/login.png" width="300" alt="Login Screen">
 
 ### Register Screen
 Create a new account with username, email, and password fields. Includes password confirmation and validation.
 
-![Register Screen](screenshots/register.png)
+<img src="screenshots/register.png" width="300" alt="Register Screen">
 
 ### Home Screen
 The main screen lets you choose between auto or manual transcription modes. Features a large microphone icon and two clear action buttons.
 
-![Home Screen](screenshots/home.png)
+<img src="screenshots/home.png" width="300" alt="Home Screen">
 
 ### Auto Transcription Screen
 Record audio and get automatic transcriptions. Edit the generated text, add labels, mark as verified, and submit your transcription.
 
-![Auto Transcription Screen](screenshots/auto_transcribe.png)
+<img src="screenshots/auto_transcribe.png" width="300" alt="Auto Transcription Screen">
 
 ### Model Management Screen
 Select from different Whisper models (Tiny, Base, Small, Medium, Large) with details about size, speed, and accuracy trade-offs.
 
-![Model Management Screen](screenshots/model_management.png)
+<img src="screenshots/model_management.png" width="300" alt="Model Management Screen">
 
 ### Settings Screen
 Manage your account, view submissions, check pending uploads, and access device information. Includes options to clear local data and logout.
 
-![Settings Screen](screenshots/settings.png)
+<img src="screenshots/settings.png" width="300" alt="Settings Screen">
 
 ### Submissions Screen
 View all your submitted transcriptions with status indicators, verification badges, model information, and full transcript details.
 
-![Submissions Screen](screenshots/submissions.png)
+<img src="screenshots/submissions.png" width="300" alt="Submissions Screen">
 
 ## Setup
 
